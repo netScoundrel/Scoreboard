@@ -5,6 +5,10 @@ This is pretty much a React App I was doing along TeamTreeHouse course.
 
 # What I Learned?
 
+<ul>
+  <li>Props</li>
+</ul>
+
 *Props </br>
 *State </br>
 *Modules </br>
