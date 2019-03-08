@@ -7,12 +7,10 @@ This is pretty much a React App I was doing along TeamTreeHouse course.
 
 <ul>
   <li>Props</li>
+  <li>State</li>
+  <li>Modules</li>
+  <li>Lifecycle methods</li>
+  <li>Optimize performance with Pure Component</li>
+  <li>Validate Props with PropTypes</li>
+  <li>React Context API</li>
 </ul>
-
-*Props </br>
-*State </br>
-*Modules </br>
-*Lifecycle methods </br>
-*Optimize performance with Pure Component </br>
-*Validate Props with PropTypes </br>
-*React Context API </br>
