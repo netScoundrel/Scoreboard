@@ -14,7 +14,8 @@ const PlayerList = (props) => {
               key={player.id.toString()} 
               index={index}
               changeScore={props.changeScore}
-              removePlayer={props.removePlayer}           
+              removePlayer={props.removePlayer}     
+              isHighScore={props.highScore === player.score}      
             />
           )}
         </React.Fragment>
