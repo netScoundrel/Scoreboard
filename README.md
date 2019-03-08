@@ -5,10 +5,10 @@ This is pretty much a React App I was doing along TeamTreeHouse course.
 
 # What I Learned?
 
-*Props
-*State
-*Modules
-*Lifecycle methods
-*Optimize performance with Pure Component
-*Validate Props with PropTypes
-*React Context API
+*Props </br>
+*State </br>
+*Modules </br>
+*Lifecycle methods </br>
+*Optimize performance with Pure Component </br>
+*Validate Props with PropTypes </br>
+*React Context API </br>
