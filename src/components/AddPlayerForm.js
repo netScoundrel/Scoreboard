@@ -12,8 +12,10 @@ const AddPlayerForm = () => {
 
         const handleSubmit = (e) => {
           e.preventDefault();
-          context.actions.addPlayer(playerInput.current.value);
-          e.currentTarget.reset();
+          if(playerInput.current.value.length !== 0){
+            context.actions.addPlayer(playerInput.current.value);
+            e.currentTarget.reset();
+          }
         }
 
         return(
