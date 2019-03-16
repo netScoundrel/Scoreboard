@@ -1,8 +1,8 @@
 {
-  "name": "Scoreboard",
+  "name": "scoreboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://netscoundrel.github.io/Scoreboard",
+  "homepage": "https://netscoundrel.github.io/scoreboard",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "prop-types": "^15.7.2",

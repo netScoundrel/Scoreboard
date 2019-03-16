@@ -1,7 +1,7 @@
 # Scoreboard
 
-This is pretty much a React App I was doing along TeamTreeHouse course.
-
+This is pretty much a React App I was doing along TeamTreeHouse course. <br/>
+Have a look: <a href="https://netscoundrel.github.io/scoreboard/">Preview</a>
 
 # What I Learned?
 

@@ -7,7 +7,7 @@ import { BrowserRouter } from 'react-router-dom';
 const App = () => {
 
   return (
-    <BrowserRouter basename="/Scoreboard">
+    <BrowserRouter basename="/scoreboard">
       <div className="scoreboard">
           <Header />
           <PlayerList />
